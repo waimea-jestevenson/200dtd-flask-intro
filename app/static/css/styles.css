@@ -3,3 +3,8 @@ font-size: 8rem;
 text-align: center;
 color: var(--pico-primary);
 }
+
+
+templates{
+    display:flex
+}
