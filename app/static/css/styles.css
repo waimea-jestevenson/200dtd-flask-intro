@@ -5,6 +5,8 @@ color: var(--pico-primary);
 }
 
 
-templates{
+article{
     display:flex
+    flex-direction center;
+
 }
